@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+models/
+*.pkl
+long_data_.csv
+dataset_tk.csv
